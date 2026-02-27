@@ -12,8 +12,8 @@ const posts = [
     {
         id: 1,
         titolo: 'Cimabellone',
-        contenuto: 'Un dolce soffice e profumatissimo, perfetto per la colazione'
-        immagine: '/img/ciambellone.jpeg'
+        contenuto: 'Un dolce soffice e profumatissimo, perfetto per la colazione',
+        immagine: '/img/ciambellone.jpeg',
         tags: ['dolce', 'colazione', 'torta']
     },
     {
