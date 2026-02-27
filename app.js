@@ -6,6 +6,9 @@ const app = express();
 const port = 3000;
 // le imagine vengono visualizzate dal server
 app.use(express.static("public"));
+// array dei post
+
+const posts = [];
 
 // rotta
 app.get("/", (req, res) => {
